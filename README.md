@@ -1,1 +1,3 @@
-phpApps-47.5
+#phpApps
+
+phpApps - loaders for PHP Desktop and other useful applications

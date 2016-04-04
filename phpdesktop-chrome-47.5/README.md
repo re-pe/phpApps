@@ -30,4 +30,4 @@ File _defaults/pd.1.conf is renamed settings.json file.
 
 ##Usage
 
-Download source of PHP Desktop Chrome 47.5, replace settings.cpp with this file and compile phpdesktop according instructions on PHP Desktop site.
+Download source of PHP Desktop Chrome 47.5, replace settings.cpp with this file and compile phpdesktop according instructions on PHP Desktop site. If you want get binary file, click [here](https://drive.google.com/file/d/0BxuT8ypXm7sRUHVmTTR1cURXcDg/view?usp=sharing).

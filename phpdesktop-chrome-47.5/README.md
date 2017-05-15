@@ -21,12 +21,10 @@ _defaults/app.1.conf:
 {
     "Desktop" : {
         "Path" : "_defaults",
-        "Conf" : "pd.1.conf"
+        "Conf" : "settings.json"
     }
 }
 ```
-
-File _defaults/pd.1.conf is renamed settings.json file.
 
 ## Usage
 

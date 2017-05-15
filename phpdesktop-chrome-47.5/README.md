@@ -28,4 +28,4 @@ _defaults/app.1.conf:
 
 ## Usage
 
-Download source of PHP Desktop Chrome 47.5, replace settings.cpp with this file and compile phpdesktop according instructions on PHP Desktop site. If you want to dowload binary file, click [here](https://drive.google.com/file/d/0BxuT8ypXm7sRalNNQU1jdDJvSlU/view?usp=sharing).
+Download source of PHP Desktop Chrome 47.5, replace settings.cpp with this file and compile phpdesktop according instructions on PHP Desktop site. If you want to get binary file, download it [here](https://drive.google.com/open?id=0BxuT8ypXm7sRalNNQU1jdDJvSlU).

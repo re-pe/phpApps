@@ -1,4 +1,4 @@
-#Modified PHP Desktop
+# Modified PHP Desktop
 
 There is file with modified function which PHP Desktop uses for loading of settings.json file. 
 
@@ -28,6 +28,6 @@ _defaults/app.1.conf:
 
 File _defaults/pd.1.conf is renamed settings.json file.
 
-##Usage
+## Usage
 
 Download source of PHP Desktop Chrome 47.5, replace settings.cpp with this file and compile phpdesktop according instructions on PHP Desktop site. If you want to dowload binary file, click [here](https://drive.google.com/file/d/0BxuT8ypXm7sRalNNQU1jdDJvSlU/view?usp=sharing).
